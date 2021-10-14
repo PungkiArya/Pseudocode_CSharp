@@ -1,0 +1,14 @@
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\bin\Debug\netcoreapp3.1\Tugas Pseudocode 1.exe
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\bin\Debug\netcoreapp3.1\Tugas Pseudocode 1.deps.json
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\bin\Debug\netcoreapp3.1\Tugas Pseudocode 1.runtimeconfig.json
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\bin\Debug\netcoreapp3.1\Tugas Pseudocode 1.runtimeconfig.dev.json
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\bin\Debug\netcoreapp3.1\Tugas Pseudocode 1.dll
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\bin\Debug\netcoreapp3.1\Tugas Pseudocode 1.pdb
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\obj\Debug\netcoreapp3.1\Tugas Pseudocode 1.csproj.AssemblyReference.cache
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\obj\Debug\netcoreapp3.1\Tugas Pseudocode 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\obj\Debug\netcoreapp3.1\Tugas Pseudocode 1.AssemblyInfoInputs.cache
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\obj\Debug\netcoreapp3.1\Tugas Pseudocode 1.AssemblyInfo.cs
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\obj\Debug\netcoreapp3.1\Tugas Pseudocode 1.csproj.CoreCompileInputs.cache
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\obj\Debug\netcoreapp3.1\Tugas Pseudocode 1.dll
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\obj\Debug\netcoreapp3.1\Tugas Pseudocode 1.pdb
+C:\Users\Pungki Arya Tama\Documents\Polimedia\Materi\Semester 1\Algoritma Dan Struktur Data\Tugas Pseudocode 1\obj\Debug\netcoreapp3.1\Tugas Pseudocode 1.genruntimeconfig.cache

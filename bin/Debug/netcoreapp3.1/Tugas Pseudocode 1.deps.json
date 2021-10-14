@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tugas Pseudocode 1/1.0.0": {
+        "runtime": {
+          "Tugas Pseudocode 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas Pseudocode 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
